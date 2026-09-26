@@ -1,0 +1,4 @@
+account,id,date,title,internal,external,transcript,recorded,source
+Harbor Tools,discovery-01,2026-01-12,Discovery,Maya,Jordan,discovery.md,true,synthetic example
+Harbor Tools,followup-02,2026-01-19,Follow up,Maya,Jordan,,false,synthetic example
+
