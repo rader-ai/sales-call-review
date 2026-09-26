@@ -1,0 +1,17 @@
+{
+  "summary": "The buyer described a late handoff problem and agreed to bring operations and finance into a pilot discussion. The rep did not quantify the time or cost of delays.",
+  "strengths": [
+    {"point": "Opened with the buyer's desired outcome", "evidence": [{"quote": "What would make this conversation useful for you?", "ts": "00:00"}]},
+    {"point": "Set a mutual next step with owners and timing", "evidence": [{"quote": "I will send a pilot outline Tuesday, and you will invite them to a working session Thursday.", "ts": "01:40"}]}
+  ],
+  "opportunities": [
+    {"point": "Quantify the operational cost of late notes before proposing the pilot", "evidence": [{"quote": "The operations lead cannot spot delayed jobs until Monday.", "ts": "00:40"}]}
+  ],
+  "themes": [
+    {"tag": "handoff-delay", "observation": "Late field notes delay operational review", "evidence": [{"quote": "The operations lead cannot spot delayed jobs until Monday.", "ts": "00:40"}]}
+  ],
+  "practice": {"behavior": "Ask one quantified impact question before describing the pilot", "owner": "Maya", "check_in": "next recorded discovery call"},
+  "open_questions": ["How many delayed jobs occur each week?", "What does the finance manager need to approve?"],
+  "confidence": "medium",
+  "reviewed_by": "synthetic example"
+}
