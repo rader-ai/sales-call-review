@@ -1,0 +1,14 @@
+# All user data and generated output stays local.
+workspace/
+*.env
+.env*
+config.json
+models/
+audio/
+inbox/
+data/
+transcripts/
+reports/
+__pycache__/
+.DS_Store
+
